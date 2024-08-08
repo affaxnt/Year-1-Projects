@@ -1,8 +1,3 @@
-// -------------------------------------------------------
-// Assignment 4
-// Written by:  Affan Thameem (40282375)
-// For COMP 248 Section W  – Winter 2024
-// -------------------------------------------------------
 
 /**
  * Represents an individual entity with attributes such as entity ID, first name, last name, and charge percent.
