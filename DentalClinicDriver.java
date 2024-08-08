@@ -1,8 +1,4 @@
-// -------------------------------------------------------
-// Assignment 4
-// Written by:  Affan Thameem (40282375)
-// For COMP 248 Section W  – Winter 2024
-// -------------------------------------------------------
+
 /**
 * Driver class is for the Simple Mobile Dental Clinic Management System (SMDCMS).
 * This class serves as the entry point for the application and arranges the functionality
