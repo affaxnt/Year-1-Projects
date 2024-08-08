@@ -1,8 +1,4 @@
-// -------------------------------------------------------
-// Assignment 4
-// Written by:  Affan Thameem (40282375)
-// For COMP 248 Section W  – Winter 2024
-// -------------------------------------------------------
+
 /**
  * Represents a clinic entity with attributes such as clinic name, clinic code, clinic term, dentist, dental assistants,
  * registered patients, and methods for managing clinic statistics and charge sheet.
