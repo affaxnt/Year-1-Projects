@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;  // For file handling
 import java.io.FileWriter;  // For writing to files
 import java.io.IOException;  // For handling input-output exceptions
-
+ 
 public class Game {
     private Board board;  // The game board
     private Player[] players;  // Array to hold two players
