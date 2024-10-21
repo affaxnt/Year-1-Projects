@@ -25,5 +25,6 @@ A compilation of personal and class projects done in my first year @ Concordia
    - calc.c / calc.h
    - ordering.c / ordering.h
    - spreadsheet.c / spreadhseet.h
-   - student.h 
+   - student.h
+   - student.txt
 
