@@ -1,7 +1,7 @@
 public class Board {
     private Position[][] board; // 2D array representing the board
 
-    // Constructor
+    // Constructor 
     public Board() {
         board = new Position[8][8];
         for (int i = 0; i < 8; i++) {
